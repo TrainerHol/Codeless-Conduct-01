@@ -27,3 +27,9 @@ Proposals should be made only by token holders and should require a minimum amou
  - One-on-one help with sponsors or mentors outside of hackathons.
  - Early news/feedback.
 
+## Quest Board
+
+The DAO should then implement a job/quest board with all the different tasks that need to be done for the DAO, such as advertisement, community management, mentoring, event planning, etc.
+The DAO should then vote on which tasks would be posted for the next few months and vote on the rewards that will be given to the ones that fulfill the job. 
+These tasks could be rewarded using gitcoin.
+
